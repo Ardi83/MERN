@@ -43,7 +43,7 @@ export default function(state = initialState, action) {
           ...state,
           repos: payload,
           loading: false
-        }
+        };
     default:
       return state;
   }

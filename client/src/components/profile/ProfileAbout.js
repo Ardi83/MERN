@@ -7,9 +7,9 @@ const ProfileAbout = ({profile: {bio, skills, user: {name}}}) =>
     <Fragment>
       <h2 className="text-primary">{name.trim().split (' ')[0]}s Bio</h2>
       <p>{bio}</p>
+      <div className="line"></div>
     </Fragment>
   )}
-    <div className="line"></div>
     <h2 className="text-primary">Skill Set</h2>
     <div className="skills">
       {skills.map((skill, index) => (
