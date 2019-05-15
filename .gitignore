@@ -2,6 +2,7 @@
 /package-lock.json
 
 config/default.json
+config/production.json
 
 client/package-lock.json
 client/node_modules

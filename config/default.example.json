@@ -1,0 +1,6 @@
+{
+  "mongoURI": "MONGODB",
+  "jwtSecret": "jwt secret",
+  "githubClientId": " Github client id",
+  "githubClientSecret": "Github client secret"
+}

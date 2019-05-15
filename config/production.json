@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://ardashir:infernal47@cluster0-6sxnf.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "secret",
-  "githubClientId": "85920dcab7fd0b17ca14",
-  "githubClientSecret": "80a3b89d5b7ad762948234a28e6a86174a2e0b71"
-}
